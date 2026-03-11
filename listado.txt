@@ -12,3 +12,4 @@ Alumnado (Apellidos, Nombre):
 -López Sánchez, Laura
 -Ruiz Ibáñez, Esther María 
 -Cruz García, Juan
+- Casanovas Pardo, Alberto
