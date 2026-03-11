@@ -13,3 +13,4 @@ Alumnado (Apellidos, Nombre):
 -Ruiz Ibáñez, Esther María 
 -Cruz García, Juan
 - Casanovas Pardo, Alberto
+- Henández Jiménez Rubén
