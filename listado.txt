@@ -11,3 +11,4 @@ Alumnado (Apellidos, Nombre):
 -Erencia Luque, Juan
 -López Sánchez, Laura
 -Ruiz Ibáñez, Esther María 
+-Cruz García, Juan
